@@ -1,1 +1,24 @@
+body{ 
+  background-color:#00c3ff;
+}
+
+#caja1{
+  background-color:orange;
+  padding:10px;
+  display:flex;
+  justify-content:flex-end;
+}
+body{ 
+  background-color:#00c3ff;
+}
+
+#caja2{
+  background-color:violet;
+  padding:10px;
+  display:flex;
+ justify-content:flex-end;
+  }
+body{ 
+  background-color:#00c3ff;
+}
 
